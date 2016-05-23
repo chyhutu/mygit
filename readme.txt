@@ -1,3 +1,3 @@
-Git is a distributed dversion control system.
+Git is a distributed daversion control system.
 Git is free software.
 ab
